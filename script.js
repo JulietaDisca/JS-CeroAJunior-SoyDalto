@@ -92,3 +92,6 @@ if(dineroPedro >= 0.6 && dineroPedro < 1){
 } else{
     alert("Lo siento Pedro no te alcanza para ninguno");
 }
+
+
+array = [];
